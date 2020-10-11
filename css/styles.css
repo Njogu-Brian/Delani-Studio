@@ -83,4 +83,15 @@ button {
   font-weight: bold;
 
 }
+.social{
+  align-items: center;
+  padding: 50px;
+  width: auto;
+  align-content: center;
+  
+}
+footer{
+  text-align: center;
+}
+
  

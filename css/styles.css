@@ -61,4 +61,21 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+.contact {
+  padding: 50px;
+  background-image: url("../images/backgrounds/c_image.jpg");
+  height: 500px;
+  text-align: center;
+  color: white;
+}
+form {
+  background: inherit;
+}
+input, textarea {
+    background-color: rgba(0,0,0,0.0);
+    color: white;
+}
+.placeholder {
+  color: white;
+}
  

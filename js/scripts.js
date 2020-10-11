@@ -14,6 +14,4 @@ $(document).ready(function() {
     });
   });
 
-onclick(){
-alert("message recived "+name)
-}
+

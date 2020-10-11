@@ -24,6 +24,8 @@
 }
 .what {
   padding: 50px;
+  align-items: center;
+  text-align: center;
 }
 .show, .show1, .show2 {
   font-size: 13px;

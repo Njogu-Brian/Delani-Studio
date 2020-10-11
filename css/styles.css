@@ -63,7 +63,6 @@
 }
 .contact {
   padding: 50px;
-  background-image: url("../images/backgrounds/c_image.jpg");
   height: 500px;
   text-align: center;
   color: white;
@@ -77,5 +76,11 @@ input, textarea {
 }
 .placeholder {
   color: white;
+}
+button {
+  background-color: inherit;
+  color: white;
+  font-weight: bold;
+
 }
  

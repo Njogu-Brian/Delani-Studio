@@ -10,3 +10,16 @@
 .footer {
     align-items: baseline;
 }
+.about {
+    padding: 50px;
+    text-align: center;
+}
+.services {
+  color: white;
+  padding: 70px;
+  padding-left: 350px;
+  padding-right: 350px;
+  text-align: center;
+}
+
+ 

@@ -95,10 +95,10 @@ button {
 
 }
 .social{
-  align-items: center;
+  text-align: center;
   padding: 50px;
   width: auto;
-  align-content: center;
+  
   
 }
 footer{

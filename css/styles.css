@@ -104,5 +104,6 @@ button {
 footer{
   text-align: center;
 }
-
- 
+#mouse {
+  margin-top: 120px;
+}

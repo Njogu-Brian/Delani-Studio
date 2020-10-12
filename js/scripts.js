@@ -14,4 +14,6 @@ $(document).ready(function() {
     });
   });
 
-
+function send() {
+    alert("Your Message has been received. Thanks for Contacting us");
+}

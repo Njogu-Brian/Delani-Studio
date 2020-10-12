@@ -1,6 +1,6 @@
 # DELANI STUDIO
-#### A weblanding page for Delani Studio, 2020
-#### By *Brian Njogu
+#### A web landing page for Delani Studio, 2020
+#### By Brian Njogu
 ## Description
 This a website portfolio for Delani Studio. A group of web developers who design, develop and manage your product to your specification.
 ## Setup/Installation Requirements

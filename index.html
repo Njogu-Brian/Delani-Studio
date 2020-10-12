@@ -16,14 +16,15 @@
         <h6>AMAZING PEOPLE ARE AMAZING AMAZING DESIGNS IN A FUN ENVIRONMENT</h6>
 
         <footer class="footer">
-          <img src="images/mouse_click.png" alt="mouse click">
+          <img id="mouse" src="images/mouse_click.png" alt="mouse click">
         </footer>
+        <style>
+          .intro{
+            background-image: url('images/h_img.jpg');
+          }
+        </style>
       </div>
-      <style>
-        .intro{
-          background-image: url('images/h_img.jpg');
-        }
-      </style>
+      
     </div>
 
     <div class="about">
@@ -42,13 +43,13 @@
         <p>Before we sign a contract or write a line of code our team will spend the necessary time needed to understand your product vision.</p>
         <p>The outcome of this scoping session is proposal or high level statement of work.</p>
         <p>Based on your requirements, we can provide a complete offering or just pieces you need.</p>
+        <style>
+          .services {
+            background-image: url('images/s_image.jpg');
+          }
+                          
+        </style>
       </div>
-      <style>
-        .services {
-          background-image: url('images/s_image.jpg');
-        }
-                        
-      </style>
     </div>
 
     <div class="what">
@@ -180,7 +181,7 @@
               </div>
               <div class="form-group">
                 <textarea name="message" rows="8" cols="80" id="message" placeholder="Write your text here..."></textarea><br>
-                <button type="send" name="button" onclick="send()" class=" btn-sm">Send</button>
+                <button type="send" name="button" onclick="send()" class=" btn-sm" id="click">Send</button>
               </div>
             </form>
           
